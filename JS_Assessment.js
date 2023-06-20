@@ -47,6 +47,7 @@ function getTotalSupply() {
 mintNFT("Udit", "Nike", "Gold Chain", "Brown");
 mintNFT("Laksh", "RedTape", "Golden Watch", "Black");
 mintNFT("Rupansh", "Adidas", "Gold Chain", "Brown");
+mintNFT("Harshit", "Adidas", "Golden Watch", "Brown");
 
 listNFTs();
 getTotalSupply();
